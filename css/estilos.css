@@ -327,8 +327,20 @@ h1{
     align-items: center;
     padding: 2%;
     font-family: arial;
-    margin: 2px}
-    left: 10px;
+    margin: 2px;
+    left: 10px;  }
     .parraform {text-align: center;} 
 
+    .Formulariotickets {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;   }
 
+        .abs-center {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+         
+        }}
